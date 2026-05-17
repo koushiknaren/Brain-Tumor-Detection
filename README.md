@@ -219,7 +219,7 @@ BRAIN TUMOR DETECTION [END 2 END]/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/koushiknaren/Brain-Tumor-Detection
+git clone https://github.com/koushiknaren/Brain-Tumor-Detection.git
 ```
 
 ### 2. Set up environment
